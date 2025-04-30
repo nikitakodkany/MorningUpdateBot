@@ -1,0 +1,68 @@
+# API Keys
+api_keys:
+  news: ""  # Your NewsAPI key
+  openai: ""  # Replace with actual API key if using OpenAI
+  newsapi: ""    # Replace with actual NewsAPI key
+  telegram: ""  # Your Telegram bot token
+
+# Telegram settings
+telegram:
+  bot_token: ""  # Your bot token from @BotFather
+  chat_id: ""  # Your chat ID
+
+# Location settings
+city: "San Francisco"
+country_code: "US"
+
+# Stock symbols to track
+stocks:
+  - TSLA
+  - AAPL
+  - AMZN
+
+# Sports team settings
+sports:
+  nba:
+    - "GSW"  # Golden State Warriors
+  nfl:
+    - "SF"   # San Francisco 49ers
+
+# News settings
+news_count: 5
+
+model_settings:
+  temperature: 0.7
+  max_tokens: 500
+  top_p: 0.9
+
+update_schedule:
+  time: "07:00"
+  timezone: "America/New_York"
+
+notification_settings:
+  title: "Morning Update"
+  duration: 10  # seconds
+
+model:
+  name: "facebook/opt-350m"
+  max_tokens: 200
+  temperature: 0.8
+  top_p: 0.9
+
+contexts:
+  weather:
+    enabled: true
+    update_interval: 3600  # 1 hour
+  stocks:
+    enabled: true
+    update_interval: 300   # 5 minutes
+  news:
+    enabled: true
+    update_interval: 1800  # 30 minutes
+  sports:
+    enabled: true
+    update_interval: 3600  # 1 hour
+
+logging:
+  level: "INFO"
+  file: "logs/agent.log" 

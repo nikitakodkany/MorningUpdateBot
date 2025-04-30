@@ -1,0 +1,2255 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2025-04-29T21:15:55.619220",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:12.196494",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:29.863998",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:46.554004",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:18:10.382742",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:18:15.487366",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:18:21.668553",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:18:26.421830",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:46:05.818665",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:46:11.037592",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:46:16.860593",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:46:22.258824",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight",
+          "Second insight"
+        ],
+        "actions": [
+          "First action",
+          "Second action"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:47:01.764800",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:47:04.526714",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Unable to analyze data"
+        ],
+        "actions": [
+          "Please check the data format"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:48:13.660939",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:48:31.327796",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:48:45.131673",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:48:49.609323",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:49:47.954348",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here :"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:49:52.654434",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here if the same thing happens again later or in future time period"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:49:55.921902",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:50:11.682008",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here or similar"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:52:19.541819",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:52:37.927118",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here to buy"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:52:43.141688",
+      "context_type": "news",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:53:04.182732",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "First insight here",
+          "Second insight here"
+        ],
+        "actions": [
+          "First action here",
+          "Second action here ..."
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:53:38.284598",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:53:48.061416",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:05:52.798245",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:06:11.627255",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:06:27.716885",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:06:45.551967",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:09:26.244086",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:09:44.001533",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:09:53.564842",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:10:01.355532",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:10:36.477429",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:10:54.244373",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:11:10.041236",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:11:21.860480",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:12:22.915303",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:12:30.497324",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:12:37.059008",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:12:43.485830",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:13:44.386723",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:14:01.328750",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:14:16.547128",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:14:33.168936",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:16:26.928150",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:16:33.309723",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:16:42.711018",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:17:00.035148",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:33:36.219256",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:33:53.433738",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:34:08.693492",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:34:25.812577",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:35:19.740951",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:35:37.035907",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:35:49.239402",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:35:55.409301",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:37:02.488307",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:37:13.774045",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:37:29.261881",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:37:35.395274",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:38:32.640463",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:38:49.886647",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:39:05.266423",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:39:22.162158",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:49:43.674390",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:50:01.057661",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:50:16.420842",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:50:33.543334",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:54:34.056260",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:54:51.309327",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:55:06.617325",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:55:23.503174",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:57:32.518895",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:57:49.889969",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:57:55.804290",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T00:58:06.364364",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:02:09.143111",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:02:18.492094",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:02:26.938192",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:02:40.113049",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:03:32.421273",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:03:49.512327",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:03:56.093874",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:04:12.914584",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:06:33.091625",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:06:43.630646",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:06:59.076821",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:07:11.511540",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:08:25.434516",
+      "context_type": "weather",
+      "analysis": {
+        "priority": 4,
+        "insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ],
+        "actions": [
+          "Stay hydrated and avoid outdoor activities from 12-4 PM",
+          "Keep windows open in the morning for ventilation"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:08:36.878421",
+      "context_type": "stocks",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ],
+        "actions": [
+          "Monitor TSLA for continuation of upward momentum",
+          "Consider AAPL entry points if weakness continues"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:08:52.554325",
+      "context_type": "news",
+      "analysis": {
+        "priority": 2,
+        "insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ],
+        "actions": [
+          "Review investment strategy for interest rate changes",
+          "Follow up on climate agreement details"
+        ]
+      }
+    },
+    {
+      "timestamp": "2025-04-30T01:09:09.653354",
+      "context_type": "sports",
+      "analysis": {
+        "priority": 3,
+        "insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ],
+        "actions": [
+          "Watch Celtics-Bucks game for playoff implications",
+          "Track LeBron's performance trend"
+        ]
+      }
+    }
+  ],
+  "learned_patterns": {
+    "weather": [
+      {
+        "timestamp": "2025-04-29T21:15:55.619220",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ],
+        "recommended_actions": [
+          "Please check the data format"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:18:10.382742",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:46:05.818665",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:47:01.764800",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:48:13.660939",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:49:47.954348",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:52:19.541819",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:53:38.284598",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:05:52.798245",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:09:26.244086",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:10:36.477429",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:12:22.915303",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:13:44.386723",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:16:26.928150",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:33:36.219256",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:35:19.740951",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:37:02.488307",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:38:32.640463",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:49:43.674390",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:54:34.056260",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:57:32.518895",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:02:09.143111",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:03:32.421273",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:06:33.091625",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:08:25.434516",
+        "importance": 4,
+        "key_insights": [
+          "High temperature of 28\u00b0C with heat advisory in effect",
+          "Moderate chance of precipitation (30%)"
+        ]
+      }
+    ],
+    "stocks": [
+      {
+        "timestamp": "2025-04-29T21:16:12.196494",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ],
+        "recommended_actions": [
+          "Please check the data format"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:18:15.487366",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:46:11.037592",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:48:31.327796",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:49:52.655711",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:52:37.927118",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:53:48.061416",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:06:11.627255",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:09:44.001533",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:10:54.244373",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:12:30.497324",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:14:01.328750",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:16:33.309723",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:33:53.433738",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:35:37.035907",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:37:13.774045",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:38:49.886647",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:50:01.057661",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:54:51.309327",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:57:49.889969",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:02:18.492094",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:03:49.512327",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:06:43.630646",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:08:36.878421",
+        "importance": 2,
+        "key_insights": [
+          "TSLA up 3.5% on high volume of 120.5M shares",
+          "AAPL down 2.1% with significant market cap of 2.8T"
+        ]
+      }
+    ],
+    "news": [
+      {
+        "timestamp": "2025-04-29T21:16:29.863998",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ],
+        "recommended_actions": [
+          "Please check the data format"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:18:21.668553",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:46:16.860593",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:47:04.526714",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:48:45.131673",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:49:55.921902",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:52:43.141688",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:06:27.716885",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:09:53.564842",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:11:10.041236",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:12:37.059008",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:14:16.547128",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:16:42.711018",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:34:08.693492",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:35:49.239402",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:37:29.261881",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:39:05.266423",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:50:16.420842",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:55:06.617325",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:57:55.805295",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:02:26.938192",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:03:56.093874",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:06:59.076821",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:08:52.554325",
+        "importance": 2,
+        "key_insights": [
+          "Fed policy shift could impact market conditions",
+          "Major environmental policy changes ahead"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "timestamp": "2025-04-29T21:16:46.554004",
+        "importance": 3,
+        "key_insights": [
+          "Unable to analyze data"
+        ],
+        "recommended_actions": [
+          "Please check the data format"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:18:26.421830",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:46:22.258824",
+        "importance": 3,
+        "key_insights": [
+          "First insight",
+          "Second insight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:48:49.609323",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:50:11.682008",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-29T21:53:04.182732",
+        "importance": 3,
+        "key_insights": [
+          "First insight here",
+          "Second insight here"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:06:45.551967",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:10:01.355532",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:11:21.860480",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:12:43.485830",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:14:33.168936",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:17:00.035148",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:34:25.812577",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:35:55.409301",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:37:35.395274",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:39:22.162158",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:50:33.543334",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:55:23.503174",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T00:58:06.364364",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:02:40.113049",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:04:12.914584",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:07:11.511540",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      },
+      {
+        "timestamp": "2025-04-30T01:09:09.653354",
+        "importance": 3,
+        "key_insights": [
+          "Lakers win close game with strong performance",
+          "Important Celtics vs Bucks game tonight"
+        ]
+      }
+    ]
+  },
+  "performance_metrics": {},
+  "adaptation_history": [
+    {
+      "timestamp": "2025-04-29T21:15:55.619220",
+      "context_type": "weather",
+      "adaptation": {
+        "old_priority": 3,
+        "new_priority": 30,
+        "reason": "Learned from analysis"
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:12.196494",
+      "context_type": "stocks",
+      "adaptation": {
+        "old_priority": 3,
+        "new_priority": 30,
+        "reason": "Learned from analysis"
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:29.863998",
+      "context_type": "news",
+      "adaptation": {
+        "old_priority": 3,
+        "new_priority": 30,
+        "reason": "Learned from analysis"
+      }
+    },
+    {
+      "timestamp": "2025-04-29T21:16:46.554004",
+      "context_type": "sports",
+      "adaptation": {
+        "old_priority": 3,
+        "new_priority": 30,
+        "reason": "Learned from analysis"
+      }
+    }
+  ]
+}

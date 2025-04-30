@@ -1,0 +1,2266 @@
+[
+  {
+    "type": "weather",
+    "data": {
+      "location": "San Francisco",
+      "temperature": 19.8,
+      "conditions": "Clear sky",
+      "humidity": 66,
+      "wind_speed": 19.8
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:41:58.663832"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "TSLA": {
+        "price": 168.29,
+        "change": 1.45
+      },
+      "AAPL": {
+        "price": 169.89,
+        "change": -0.75
+      },
+      "AMZN": {
+        "price": 179.55,
+        "change": 2.15
+      }
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:41:58.664841"
+  },
+  {
+    "type": "news",
+    "data": [
+      {
+        "title": "US strike kills dozens at Yemen migrant detention center, Yemeni officials say - ABC News",
+        "description": null
+      },
+      {
+        "title": "Twin Cities and much of Minnesota under threat for large hail, tornadoes Monday afternoon - Star Tribune",
+        "description": "A tornado watch covering the Twin Cities area is set to run until 11 p.m."
+      },
+      {
+        "title": "Florida boat collision leaves 1 dead and at least 10 people injured - AP News",
+        "description": "One person has died and at least 10 people were injured in Florida when a recreational boat crashed into a ferry and then left the scene off the Memorial Causeway Bridge. The Clearwater Police Department posted on X that there were multiple injuries Sunday an\u2026"
+      },
+      {
+        "title": "\u2018Exceptional\u2019 power outage in Spain and Portugal affects millions of people - AP News",
+        "description": "A blackout has brought much of Spain and Portugal to a standstill, affecting millions of people. The Spanish power distributor calls it \u201cexceptional and extraordinary.\" It says restoring power fully could take six to 10 hours. The cause was not immediately cl\u2026"
+      },
+      {
+        "title": "Over 200 people detained, including military members, at unlicensed nightclub in Colorado, DEA says - ABC News",
+        "description": null
+      }
+    ],
+    "priority": 0,
+    "timestamp": "2025-04-29T14:41:59.269569"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "summary": "GSW vs LAL: Warriors won 120-115"
+        },
+        {
+          "summary": "BOS vs MIA: Celtics won 108-102"
+        }
+      ],
+      "nfl": [
+        {
+          "summary": "SF vs SEA: 49ers won 31-13"
+        },
+        {
+          "summary": "KC vs BAL: Chiefs won 17-10"
+        }
+      ]
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:41:59.269569"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "location": "San Francisco",
+      "temperature": 19.8,
+      "conditions": "Clear sky",
+      "humidity": 66,
+      "wind_speed": 19.9
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:43:10.014605"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "TSLA": {
+        "price": 168.29,
+        "change": 1.45
+      },
+      "AAPL": {
+        "price": 169.89,
+        "change": -0.75
+      },
+      "AMZN": {
+        "price": 179.55,
+        "change": 2.15
+      }
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:43:10.014605"
+  },
+  {
+    "type": "news",
+    "data": [
+      {
+        "title": "US strike kills dozens at Yemen migrant detention center, Yemeni officials say - ABC News",
+        "description": null
+      },
+      {
+        "title": "Twin Cities and much of Minnesota under threat for large hail, tornadoes Monday afternoon - Star Tribune",
+        "description": "A tornado watch covering the Twin Cities area is set to run until 11 p.m."
+      },
+      {
+        "title": "Florida boat collision leaves 1 dead and at least 10 people injured - AP News",
+        "description": "One person has died and at least 10 people were injured in Florida when a recreational boat crashed into a ferry and then left the scene off the Memorial Causeway Bridge. The Clearwater Police Department posted on X that there were multiple injuries Sunday an\u2026"
+      },
+      {
+        "title": "\u2018Exceptional\u2019 power outage in Spain and Portugal affects millions of people - AP News",
+        "description": "A blackout has brought much of Spain and Portugal to a standstill, affecting millions of people. The Spanish power distributor calls it \u201cexceptional and extraordinary.\" It says restoring power fully could take six to 10 hours. The cause was not immediately cl\u2026"
+      },
+      {
+        "title": "Over 200 people detained, including military members, at unlicensed nightclub in Colorado, DEA says - ABC News",
+        "description": null
+      }
+    ],
+    "priority": 0,
+    "timestamp": "2025-04-29T14:43:10.347643"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "summary": "GSW vs LAL: Warriors won 120-115"
+        },
+        {
+          "summary": "BOS vs MIA: Celtics won 108-102"
+        }
+      ],
+      "nfl": [
+        {
+          "summary": "SF vs SEA: 49ers won 31-13"
+        },
+        {
+          "summary": "KC vs BAL: Chiefs won 17-10"
+        }
+      ]
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T14:43:10.365523"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "location": "San Francisco",
+      "temperature": 13.8,
+      "conditions": "Overcast",
+      "humidity": 76,
+      "wind_speed": 11.2
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T19:01:29.396677"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "TSLA": {
+        "price": 168.29,
+        "change": 1.45
+      },
+      "AAPL": {
+        "price": 169.89,
+        "change": -0.75
+      },
+      "AMZN": {
+        "price": 179.55,
+        "change": 2.15
+      }
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T19:01:29.406053"
+  },
+  {
+    "type": "news",
+    "data": [
+      {
+        "title": "4 minors dead after vehicle rams into after-school camp in Illinois - ABC News",
+        "description": null
+      },
+      {
+        "title": "DOGE targets US foreign aid agency created under first Trump administration - Politico",
+        "description": "The Development Finance Corporation is viewed as key to countering China."
+      },
+      {
+        "title": "Live updates: Storms bring hail, rain, at least one tornado to Minnesota - MPR News",
+        "description": "After one round of thunderstorms moved across Minnesota on Monday morning, a second, stronger round of storms brought hail, high winds, heavy rain, funnel clouds and reports of at least one tornado during the afternoon and evening."
+      },
+      {
+        "title": "Jeffrey Lurie: Eagles were \"honored to participate\" in traditional White House visit - NBC Sports",
+        "description": "Seven years after the Eagles didn't visit the White House after winning the Super Bowl, they made the trip after winning it again."
+      },
+      {
+        "title": "US fighter jet falls overboard while avoiding Houthi attack - Politico",
+        "description": "The $60M mishap adds to an increasingly expensive price tag in the administration\u2019s effort against the Iran-backed group."
+      }
+    ],
+    "priority": 0,
+    "timestamp": "2025-04-29T19:01:29.407274"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "summary": "GSW vs LAL: Warriors won 120-115"
+        },
+        {
+          "summary": "BOS vs MIA: Celtics won 108-102"
+        }
+      ],
+      "nfl": [
+        {
+          "summary": "SF vs SEA: 49ers won 31-13"
+        },
+        {
+          "summary": "KC vs BAL: Chiefs won 17-10"
+        }
+      ]
+    },
+    "priority": 0,
+    "timestamp": "2025-04-29T19:01:29.407274"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 20,
+      "condition": "sunny",
+      "precipitation": 0
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:46:58.663325"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 150.25,
+        "change": 2.5
+      },
+      "GOOGL": {
+        "price": 2800.75,
+        "change": -1.2
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:46:58.664532"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        "Major Tech Breakthrough Announced",
+        "Global Economic Summit Begins"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:46:58.664532"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "scores": [
+        {
+          "game": "NBA: Lakers vs Warriors",
+          "score": "120-115"
+        },
+        {
+          "game": "NFL: Chiefs vs Bills",
+          "score": "24-17"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:46:58.665533"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 20,
+      "condition": "sunny",
+      "precipitation": 0
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:47:59.946870"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 150.25,
+        "change": 2.5
+      },
+      "GOOGL": {
+        "price": 2800.75,
+        "change": -1.2
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:47:59.947867"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        "Major Tech Breakthrough Announced",
+        "Global Economic Summit Begins"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:47:59.949358"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "scores": [
+        {
+          "game": "NBA: Lakers vs Warriors",
+          "score": "120-115"
+        },
+        {
+          "game": "NFL: Chiefs vs Bills",
+          "score": "24-17"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:47:59.950509"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 20,
+      "condition": "sunny",
+      "precipitation": 0
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:49:33.629132"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 150.25,
+        "change": 2.5
+      },
+      "GOOGL": {
+        "price": 2800.75,
+        "change": -1.2
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:49:33.630132"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        "Major Tech Breakthrough Announced",
+        "Global Economic Summit Begins"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:49:33.632132"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "scores": [
+        {
+          "game": "NBA: Lakers vs Warriors",
+          "score": "120-115"
+        },
+        {
+          "game": "NFL: Chiefs vs Bills",
+          "score": "24-17"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:49:33.633130"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:52:11.793770"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:52:11.794775"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:52:11.796777"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:52:11.797775"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:53:23.338016"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:53:23.339016"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:53:23.341017"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-29T21:53:23.342015"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:05:42.632402"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:05:42.635714"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:05:42.637093"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:05:42.642113"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:09:11.011727"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:09:11.016509"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:09:11.018844"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:09:11.025860"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:10:31.350019"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:10:31.350019"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:10:31.359324"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:10:31.361547"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:12:07.378910"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:12:07.378910"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:12:07.378910"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:12:07.378910"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:13:29.760412"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:13:29.765433"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:13:29.769448"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:13:29.771458"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:16:14.264145"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:16:14.268159"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:16:14.274617"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:16:14.278591"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:33:30.077487"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:33:30.084158"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:33:30.091803"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:33:30.098041"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:35:13.316461"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:35:13.316461"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:35:13.316461"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:35:13.316461"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:36:47.710200"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:36:47.721738"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:36:47.727765"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:36:47.731510"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:38:18.074128"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:38:18.088327"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:38:18.092349"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:38:18.097006"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:49:37.257368"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:49:37.263838"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:49:37.264908"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:49:37.264908"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:54:29.110551"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:54:29.120736"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:54:29.139488"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:54:29.143773"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:57:25.626469"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:57:25.632978"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:57:25.639482"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T00:57:25.646592"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:02:00.221581"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:02:00.233942"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:02:00.239997"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:02:00.249765"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:03:27.234045"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:03:27.238560"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:03:27.249811"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:03:27.257500"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:06:22.387000"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:06:22.393212"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:06:22.403160"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:06:22.411440"
+  },
+  {
+    "type": "weather",
+    "data": {
+      "temperature": 28,
+      "feels_like": 30,
+      "condition": "partly cloudy",
+      "precipitation_chance": 30,
+      "humidity": 65,
+      "wind_speed": 15,
+      "alerts": [
+        "Heat advisory in effect until 6 PM"
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:08:10.426795"
+  },
+  {
+    "type": "stocks",
+    "data": {
+      "AAPL": {
+        "price": 175.25,
+        "change": -3.75,
+        "change_percent": -2.1,
+        "volume": "85.2M",
+        "market_cap": "2.8T"
+      },
+      "TSLA": {
+        "price": 242.5,
+        "change": 8.3,
+        "change_percent": 3.5,
+        "volume": "120.5M",
+        "market_cap": "768.4B"
+      },
+      "MSFT": {
+        "price": 338.15,
+        "change": 2.45,
+        "change_percent": 0.7,
+        "volume": "22.1M",
+        "market_cap": "2.5T"
+      }
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:08:10.437604"
+  },
+  {
+    "type": "news",
+    "data": {
+      "headlines": [
+        {
+          "title": "Fed Signals Potential Interest Rate Cut in Coming Months",
+          "category": "Economy",
+          "importance": "high"
+        },
+        {
+          "title": "Major Tech Company Announces Revolutionary AI Chip",
+          "category": "Technology",
+          "importance": "medium"
+        },
+        {
+          "title": "Global Climate Summit Reaches Historic Agreement",
+          "category": "Environment",
+          "importance": "high"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:08:10.445720"
+  },
+  {
+    "type": "sports",
+    "data": {
+      "nba": [
+        {
+          "game": "Lakers vs Warriors",
+          "score": "120-115",
+          "status": "Final",
+          "highlight": "LeBron's triple-double leads Lakers"
+        }
+      ],
+      "nfl": [
+        {
+          "game": "Chiefs vs Bills",
+          "score": "24-17",
+          "status": "Final",
+          "highlight": "Mahomes throws 3 TDs in victory"
+        }
+      ],
+      "upcoming": [
+        {
+          "game": "Celtics vs Bucks",
+          "time": "7:30 PM EST",
+          "importance": "Crucial matchup for playoff seeding"
+        }
+      ]
+    },
+    "priority": 3,
+    "timestamp": "2025-04-30T01:08:10.452938"
+  }
+]
