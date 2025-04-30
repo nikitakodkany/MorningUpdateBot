@@ -2,9 +2,7 @@
 
 An intelligent system that generates personalized morning updates using AI to analyze and prioritize information from various sources including weather, stocks, news, and sports.
 
-## 🎥 Demo Video
-
-https://github.com/yourusername/genAIapp/assets/youruserid/video.mp4
+## 📽️ [Watch the demo video](output/video.mp4)
 
 ## ✨ Features
 
@@ -74,8 +72,6 @@ The system uses an AI agent that:
 - Adapts to your preferences
 - Optimizes content ordering
 - Improves decision-making over time
-
-![Agent Summary](output/AgentSummary.png)
 
 ## 📝 Example Output
 
